@@ -19,6 +19,7 @@ from .blockbuffer import BlockBuffer
 from .exceptions import BlockBufferFullException, BlockBufferValueException
 
 __author__ = "Daniel Jones <http://www.erase.net/>"
+__version__ = "0.0.4"
 __all__ = [
     "BlockBuffer",
     "BlockBufferFullException",
